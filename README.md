@@ -6,7 +6,17 @@
 - 👶 I'm a beginner developer, so I don't have any big projects
 - You can get in touch with me on [***telegram***](https://t.me/locustt)
 
-### I can
+### Languages
+
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height='40' width='40'/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='40' width='40'/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='40' width='40'/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height='40' width='40'/>
+</p>
+
+### Tools
+
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height='40' width='40'/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='40' width='40'/>
