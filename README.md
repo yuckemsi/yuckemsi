@@ -16,4 +16,4 @@
 
 ### Profile stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuckemsi&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuckemsi&theme=nord_dark)
