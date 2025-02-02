@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align='center'>Hi, there!😄</h1>
+<h3 align='center'>Junior Python Developer</h1>
 
-<!--
-**yuckemsi/yuckemsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm coding on **Python**, **HTML**, **CSS**, **JavaScript**
+- 🌱 Learning English language and web development
+- 👶 I'm a beginner developer, so I don't have any big projects
+- You can get in touch with me on [***telegram***](https://t.me/locustt)
 
-Here are some ideas to get you started:
+### I can
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height='40' width='40'/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='40' width='40'/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='40' width='40'/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height='40' width='40'/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Profile stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuckemsi&theme=2077)
